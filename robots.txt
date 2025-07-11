@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://doodlebaseballonline.github.io/sitemap.xml
